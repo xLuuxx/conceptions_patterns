@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Burger/Burger.iml" filepath="$PROJECT_DIR$/Burger/Burger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CSV/CSV.iml" filepath="$PROJECT_DIR$/CSV/CSV.iml" />
       <module fileurl="file://$PROJECT_DIR$/TPE/TPE.iml" filepath="$PROJECT_DIR$/TPE/TPE.iml" />
       <module fileurl="file://$PROJECT_DIR$/conceptions_patterns.iml" filepath="$PROJECT_DIR$/conceptions_patterns.iml" />
     </modules>
