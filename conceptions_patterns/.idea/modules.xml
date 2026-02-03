@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Burger/Burger.iml" filepath="$PROJECT_DIR$/Burger/Burger.iml" />
       <module fileurl="file://$PROJECT_DIR$/conceptions_patterns.iml" filepath="$PROJECT_DIR$/conceptions_patterns.iml" />
     </modules>
   </component>
